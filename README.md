@@ -4,7 +4,7 @@
 **Affiliation:** Regis High School  
 
 ## Overview
-This repository contains the complete analysis pipeline for our study:
+This repository contains the complete analysis pipeline for the study:
 > *"A 10‑gene transcriptomic signature for anti‑PD‑1 response in melanoma shows limited cross‑validation and external generalizability."*
 
 The analysis demonstrates the risk of overfitting in small‑sample, high‑dimensional biomarker discovery.
